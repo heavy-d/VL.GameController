@@ -7276,5 +7276,5 @@
   <NugetDependency Id="B1AuzxpEunPNseuXOR6QlS" Location="VL.Stride" Version="2022.5.0-0456-gfecf229395" />
   <NugetDependency Id="OZuP2yKZUilQVEDkCJj0oV" Location="VL.Stride.Windows" Version="2022.5.0-0456-gfecf229395" />
   <PlatformDependency Id="PgtIOONkLG6PegBQAwSnvq" Location="C:/Program Files/vvvv/vvvv_gamma_2021.4.10-0982-g79b1f01ca7/lib/Stride.Input.dll" />
-  <PlatformDependency Id="QyUkchLJ4MwNRx4tbvOEC3" Location="./src/GameControllerInput/bin/Debug/GameControllerInput.dll" IsForward="true" />
+  <PlatformDependency Id="RKXBX1ZcbKcM0X5vufI8X1" Location="./src/GameControllerInput/bin/Debug/GameControllerInput.dll" />
 </Document>
