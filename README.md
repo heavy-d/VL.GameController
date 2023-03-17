@@ -1,6 +1,8 @@
 # VL.GameController
 v.0.4
 
+![VL.GameController](VL.GameController.jpg?raw=true "VL.GameController")
+
 This is a work in progress to support plug+play of SDL GameControllers in VL.
 
 SDL device list:
