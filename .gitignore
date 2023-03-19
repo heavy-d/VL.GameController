@@ -5,7 +5,7 @@ obj/
 *~.xml
 
 # Dynamic plugins .dll
-bin/
+# bin/
 
 .vl/
 /lib/
